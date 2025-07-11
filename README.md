@@ -7,16 +7,6 @@
 <div align="center">
 
 Machine Learning Project built to recognise gender using voice of a person.<br/>
-
-</div>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/theprincek/theprincek.github.io/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/theprincek/theprincek.github.io/issues">Request Feature</a>
-</h3>
-
 ## Built With
 
 This project was built using these technologies.
